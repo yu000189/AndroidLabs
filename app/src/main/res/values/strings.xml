@@ -1,5 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Hello World!</string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="ButtonText">I\â€™m a button</string>
+
+    <string name="widget_message">Here are my widgets</string>
+    <string name="button1">BUTTON</string>
+    <string name="checkout_message">Check this out!</string>
+    <string name="switch_message">Switch on / off</string>
+    <string name="hint_message">Type your answer in here</string>
+    <string name="contentDescription">Canada Flag</string>
 </resources>

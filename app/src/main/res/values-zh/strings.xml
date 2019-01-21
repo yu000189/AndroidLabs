@@ -3,4 +3,12 @@
     <string name="app_name">Lab1</string>
     <string name="hello_message">你好，世界！</string>
     <string name="ButtonText">我是一个按钮</string>
+
+    <string name="widget_message">这是我的小插件</string>
+    <string name="button1">按钮</string>
+    <string name="checkout_message">退出</string>
+    <string name="switch_message">开 / 关</string>
+    <string name="hint_message">请在这里回答</string>
+    <string name="contentDescription">中国国旗</string>
+
 </resources>
