@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
-    <string name="hello_message">你好，世界!</string>
-    <string name="ButtonText">I\’m a button</string>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">你好，世界！</string>
+    <string name="buttonText">我是一个按钮</string>
+
+    <string name="widget_message">这是我的小插件</string>
+    <string name="button1">按钮</string>
+    <string name="checkout_message">退出</string>
+    <string name="switch_message">开 / 关</string>
+    <string name="hint_message">请在这里输入回答</string>
+    <string name="contentDescription">中国国旗</string>
+
+    <string name="type_email_text">输入邮箱：</string>
+    <string name="type_email">在这输入邮箱</string>
+    <string name="password_text">输入密码</string>
+    <string name="login_button">登陆</string>
+    <string name="profile_text">你的个人信息</string>
+    <string name="name_text">你的姓名</string>
+    <string name="enter_name">输入姓名</string>
+    <string name="email_text">你的邮箱</string>
+    <string name="enter_email">输入邮箱</string>
+    <string name="picture_text">你的照片:</string>
+    <string name="click_hint">点击上面按钮拍照</string>
 </resources>
